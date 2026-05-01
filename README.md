@@ -5,7 +5,7 @@
 
 ## 🧠 Who am I ?
 
--    I am 19 years olds= and originally from Rio de Janeiro, Brazil, currently living in Caçapava, São Paulo. I am in my second year of a computer science degree 🎓
+-    I am 19 years old and originally from Rio de Janeiro, Brazil, currently living in Caçapava, São Paulo. I am in my second year of a computer science degree 🎓
 
 -
 -   
